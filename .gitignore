@@ -1,0 +1,10 @@
+# Python 虚拟环境
+.venv/
+venv/
+# PyCharm 文件
+.idea/
+# 编译文件
+__pycache__/
+*.pyc
+# Tesseract OCR 缓存 (通常不必要，但以防万一)
+tessdata/
